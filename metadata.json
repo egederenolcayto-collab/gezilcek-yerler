@@ -1,0 +1,6 @@
+{
+  "name": "Istanbul Museum Map",
+  "description": "A dynamic map application displaying museums in Istanbul using open data and Nominatim API.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
